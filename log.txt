@@ -1,0 +1,1 @@
+{"ageCategory":"adult","weightInKg":null,"weightUnit":"stone","heightInM":null,"heightUnit":"ft","bmiResult":"NaN","bmiStatus":"Obese"}
